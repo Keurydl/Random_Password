@@ -12,7 +12,7 @@ A modern and easy-to-use desktop application for generating secure and random pa
 - 🔄 Password generation with:
   - Uppercase and lowercase letters
   - Numbers
-  - Special symbols
+  - 💫Special symbols
 - 📋 One-click copy to clipboard function
 - 💪 Password strength indicator
 - 🔍 Detailed feedback on password components
