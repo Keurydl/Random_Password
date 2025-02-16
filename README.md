@@ -73,7 +73,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 👥 Autor
 
-Tu Nombre - [@tu-usuario](https://github.com/tu-usuario)
+- [@Keurydl](https://github.com/Keurydl)
 
 ---
 
